@@ -1,0 +1,7 @@
+Job Priority:1,Count:1107295
+Job Priority:10,Count:4567273
+Job Priority:10,Count:4567995
+Job Priority:10,Count:4567337
+Job Priority:10,Count:4545624
+Job Priority:10,Count:4526543
+//线程的优先级并没有体现出来他的存在，优先级1和优先级10Job计数的结果费非常相近，没有明显的差距，程序的正确性不依赖java的程序设计，这是与操作系统的处理器相关
